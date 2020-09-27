@@ -17,12 +17,17 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 
 ### ⚙️Libraries
 
-- [python-wait4it](https://github.com/David-Lor/python-wait4it): wait for a TCP port to be reachable, or a function to pass without exceptions
+- [python-wait4it](https://github.com/David-Lor/python-wait4it): wait for a TCP port to be reachable, or a function to pass without exceptions.
 - [ThisPersonDoesNotExistAPI](https://github.com/David-Lor/ThisPersonDoesNotExistAPI): Python interface to acquire pictures from thispersondoesnotexist.com.
+
+### 🔀Node-RED Nodes
+
+- [public-ip-address](https://github.com/David-Lor/node-red-contrib-public-ip-address): get the current public IP address.
+- [duckdns](https://github.com/David-Lor/node-red-contrib-duckdns): update DDNS domains on DuckDNS.
 
 ### 🐳Docker images
 
-- [Python-Git-App](https://github.com/David-Lor/Docker-Python-Git-App): image for deploying generic Python apps, that clones a repository and pip installs requirements when the container starts for the first time.
+- [Python-Git-App](https://github.com/David-Lor/Docker-Python-Git-App): image for deploying generic Python apps, that clones a repository and pip installs requirements when the container starts for the first time (from [deprecated project](https://github.com/David-Lor/Docker-Python-Autoclonable-App)).
 - [SSH-PortForward](https://github.com/David-Lor/Docker-SSH-Port-Forward-Client): dockerized SSH client for ssh-port-forwarding.
 
 ### 🚘GTA V Scripts
