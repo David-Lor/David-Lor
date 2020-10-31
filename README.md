@@ -30,12 +30,13 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 - [Python-Git-App](https://github.com/David-Lor/Docker-Python-Git-App): image for deploying generic Python apps, that clones a repository and pip installs requirements when the container starts for the first time (from [deprecated project](https://github.com/David-Lor/Docker-Python-Autoclonable-App)).
 - [SSH-PortForward](https://github.com/David-Lor/Docker-SSH-Port-Forward-Client): dockerized SSH client for ssh-port-forwarding.
 
-### 🚘GTA V Scripts
+### 🚘GTA5/🐎RDR2 Scripts
 
-- [SimpleGangWar](https://github.com/David-Lor/GTAV-SimpleGangWar): simple battle creator between two teams (allies and enemies) that fight each other on a frontal clash. Intended to have a nice balance between simplicity and high customization.
-- [LocationalDamage](https://github.com/David-Lor/LocationalDamage): implementation of a realistic damage system that reduces armor or health based on where the damage is dealt (torso or other parts).
-- [SelectiveFire](https://github.com/David-Lor/SelectiveFire): implementation of a selective fire mode for automatic guns (semi-auto and burst fire, plus full-auto).
-- [AccuracyFix](https://github.com/David-Lor/AccuracyFix): override of accuracy levels for all peds, with multiple settings.
+- [GTAV-SimpleGangWar](https://github.com/David-Lor/GTAV-SimpleGangWar): simple battle creator between two teams (allies and enemies) that fight each other on a frontal clash. Intended to have a nice balance between simplicity and high customization.
+- [RDR2-SimpleGangWar](https://github.com/David-Lor/RDR2-SimpleGangWar): simple battle creator between two teams (allies and enemies) that fight each other on a frontal clash. Intended to have a nice balance between simplicity and high customization.
+- [GTAV-LocationalDamage](https://github.com/David-Lor/LocationalDamage): implementation of a realistic damage system that reduces armor or health based on where the damage is dealt (torso or other parts).
+- [GTAV-SelectiveFire](https://github.com/David-Lor/SelectiveFire): implementation of a selective fire mode for automatic guns (semi-auto and burst fire, plus full-auto).
+- [GTAV-AccuracyFix](https://github.com/David-Lor/AccuracyFix): override of accuracy levels for all peds, with multiple settings.
 
 ### 🗣Talks & sample projects
 
