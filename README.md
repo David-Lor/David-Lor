@@ -20,7 +20,9 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 ### 🐳Docker images
 
 - [Python-Git-App](https://github.com/David-Lor/Docker-Python-Git-App): image for deploying generic Python apps, that clones a repository and pip installs requirements when the container starts for the first time (from [deprecated project](https://github.com/David-Lor/Docker-Python-Autoclonable-App)).
-- [SSH-PortForward](https://github.com/David-Lor/Docker-SSH-Port-Forward-Client): dockerized SSH client for ssh-port-forwarding.
+- [SSH-PortForward-Client](https://github.com/David-Lor/Docker-SSH-Port-Forward-Client): dockerized SSH client for SSH Port Forwarding.
+- [SSH-PortForward-Server](https://github.com/David-Lor/Docker-SSH-Port-Forward-Server): dockerized SSH server for SSH Port Forwarding.
+
 
 ### 🧪Proof of Concepts
 
@@ -32,6 +34,7 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 
 ### 🗣Talks & sample projects
 
+- [FastAPI+Pydantic+SQLAlchemy API (Pet Shelter sample)](https://github.com/David-Lor/FastAPI-Pydantic-SQLAlchemy-PetShelter-API): REST API with CRUD operations, built in Python with FastAPI, Pydantic and SQLAlchemy, simulating a fictional Pet Shelter administration system.
 - [FastAPI+Pydantic+Mongo API (sample)](https://github.com/David-Lor/FastAPI-Pydantic-Mongo_Sample_CRUD_API): REST API with CRUD operations, built in Python with FastAPI, Pydantic and MongoDB.
 - [pytest (examples)](https://github.com/David-Lor/pytest-talk-examples): introduction to pyTest and some of its capabilities, through examples.
 - [FastAPI (lightning talk)](https://github.com/David-Lor/FastAPI_LightningTalk-Notebook): introduction to FastAPI.
@@ -45,3 +48,7 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 - [GTAV-LocationalDamage](https://github.com/David-Lor/LocationalDamage): implementation of a realistic damage system that reduces armor or health based on where the damage is dealt (torso or other parts).
 - [GTAV-SelectiveFire](https://github.com/David-Lor/SelectiveFire): implementation of a selective fire mode for automatic guns (semi-auto and burst fire, plus full-auto).
 - [GTAV-AccuracyFix](https://github.com/David-Lor/AccuracyFix): override of accuracy levels for all peds, with multiple settings.
+
+### 🧸Scripts & others
+
+- [mkvmerge-zenity-scripts](https://github.com/David-Lor/mkvmerge-zenity-scripts): compilation of GUI scripts to perform simple operations on videos, running mkvmerge, and using zenity/yad for modal windows.
