@@ -26,6 +26,7 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 
 ### 🧪Proof of Concepts
 
+- [Telegram Bot Updates Receiver Service](https://github.com/David-Lor/TelegramBot-Webhook-Updates-Receiver-Service): microservice-based that receives Telegram Bot updates via Webhook, and publishes them on a queue or message broker.
 - [pytelegrambotapi + Redis queue](https://github.com/David-Lor/pytelegrambotapi-redisqueue_POC): microservice-based Telegram Bot that uses a Redis queue to enqueue client updates, and process them with multiple workers.
 - [Logging Requests](https://github.com/David-Lor/Logging-Requests-POC): API that traces log records per-requests, using Loguru + context variables, to store the records grouped by each individual request.
 - [ZeroHealthCheck](https://github.com/David-Lor/ZeroHealthCheck): decentralized service that healthchecks other nodes, using ZeroMQ.
