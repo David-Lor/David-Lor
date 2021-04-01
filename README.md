@@ -52,4 +52,7 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 
 ### 🧸Scripts & others
 
+- [Spotify-Collaborative-Public-Playlists-Template](https://github.com/David-Lor/Spotify-Collaborative-Public-Playlists-Template): project to manage public Spotify playlists from Github, using Github Actions. The repository is a template that can be used to manage a playlist (one per repo).
+    - [Sample/Test playlist](https://github.com/David-Lor/Spotify-Collaborative-Public-Playlists-Test): playlist used as sample repository, and for testing new features
+- [MQTT2NotifySend](https://github.com/David-Lor/MQTT2NotifySend): bash script that shows notifications in Linux desktops using notify-send, from messages received through MQTT
 - [mkvmerge-zenity-scripts](https://github.com/David-Lor/mkvmerge-zenity-scripts): compilation of GUI scripts to perform simple operations on videos, running mkvmerge, and using zenity/yad for modal windows.
