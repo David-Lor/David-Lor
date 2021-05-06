@@ -23,6 +23,9 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 - [SSH-PortForward-Client](https://github.com/David-Lor/Docker-SSH-Port-Forward-Client): dockerized SSH client for SSH Port Forwarding.
 - [SSH-PortForward-Server](https://github.com/David-Lor/Docker-SSH-Port-Forward-Server): dockerized SSH server for SSH Port Forwarding.
 
+### 🚉Services
+
+- [ping2mqtt](https://github.com/David-Lor/ping2mqtt): ping multiple hosts and send ping results to MQTT topics
 
 ### 🧪Proof of Concepts
 
