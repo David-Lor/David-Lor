@@ -56,6 +56,7 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 
 ### 🧸Scripts & others
 
+- [Github-Actions-PR-Tag-Release](https://github.com/David-Lor/Github-Actions-PR-Tag-Release): sample repository featuring Github Actions workflows that, on a merged Pull Request including a "Tags x.y.z" line in its body, automatically creates a tag with the given version on the merge commit, and triggers a workflow for creating a new Release.
 - [Spotify-Collaborative-Public-Playlists-Template](https://github.com/David-Lor/Spotify-Collaborative-Public-Playlists-Template): project to manage public Spotify playlists from Github, using Github Actions. The repository is a template that can be used to manage a playlist (one per repo).
     - [Hurdy Gurdy Rock/Metal playlist](https://github.com/David-Lor/HurdyGurdy-Rock-Metal-Spotify-Playlist): playlist with many rock/metal songs that include a hurdy gurdy
     - [Sample/Test playlist](https://github.com/David-Lor/Spotify-Collaborative-Public-Playlists-Test): playlist used as sample repository, and for testing new features
