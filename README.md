@@ -51,10 +51,12 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 - [Pydantic BaseSettings (lightning talk)](https://github.com/David-Lor/Pydantic-BaseSettings-lightning-talk): introduction to Pydantic's BaseSettings.
 - [Loguru+Context (lightning talk)](https://github.com/David-Lor/Loguru-Context-examples-lightning-talk): usage of Loguru and context variables for logging.
 
-### 🚘GTA5/🐎RDR2 Scripts
+### 🚘GTA/🐎RDR Scripts
 
-- [GTAV-SimpleGangWar](https://github.com/David-Lor/GTAV-SimpleGangWar): simple battle creator between two teams (allies and enemies) that fight each other on a frontal clash. Intended to have a nice balance between simplicity and high customization.
-- [RDR2-SimpleGangWar](https://github.com/David-Lor/RDR2-SimpleGangWar): simple battle creator between two teams (allies and enemies) that fight each other on a frontal clash. Intended to have a nice balance between simplicity and high customization.
+- SimpleGangWar scripts: simple battle creator between two teams (allies and enemies) that fight each other on a frontal clash. Intended to have a nice balance between simplicity and high customization. Available for:
+    - [Grand Theft Auto V](https://github.com/David-Lor/GTAV-SimpleGangWar)
+    - [Grand Theft Auto IV](https://github.com/David-Lor/GTAIV-SimpleGangWar)
+    - [Red Dead Redemption 2](https://github.com/David-Lor/RDR2-SimpleGangWar)
 - [GTAV-LocationalDamage](https://github.com/David-Lor/LocationalDamage): implementation of a realistic damage system that reduces armor or health based on where the damage is dealt (torso or other parts).
 - [GTAV-SelectiveFire](https://github.com/David-Lor/SelectiveFire): implementation of a selective fire mode for automatic guns (semi-auto and burst fire, plus full-auto).
 - [GTAV-AccuracyFix](https://github.com/David-Lor/AccuracyFix): override of accuracy levels for all peds, with multiple settings.
