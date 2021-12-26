@@ -10,6 +10,7 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 ### ⚙️Libraries
 
 - [python-wait4it](https://github.com/David-Lor/python-wait4it): wait for a TCP port to be reachable, or a function to pass without exceptions.
+- [python-pvpc](https://github.com/David-Lor/python-pvpc): wrapper for the Esios PVPC API (Spanish electricity cost)
 - [ThisPersonDoesNotExistAPI](https://github.com/David-Lor/ThisPersonDoesNotExistAPI): Python interface to acquire pictures from thispersondoesnotexist.com.
 
 ### 🔀Node-RED Nodes
@@ -68,6 +69,7 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
     - [Hurdy Gurdy Rock/Metal playlist](https://github.com/David-Lor/HurdyGurdy-Rock-Metal-Spotify-Playlist): playlist with many rock/metal songs that include a hurdy gurdy
     - [Sample/Test playlist](https://github.com/David-Lor/Spotify-Collaborative-Public-Playlists-Test): playlist used as sample repository, and for testing new features
 - [MQTT2NotifySend](https://github.com/David-Lor/MQTT2NotifySend): bash script that shows notifications in Linux desktops using notify-send, from messages received through MQTT
+- [PVPC](https://github.com/David-Lor/pvpc): PVPC costs per day (Spanish electricity cost), powered by Github Actions and daily updated.
 
 ### 📖Articles
 
