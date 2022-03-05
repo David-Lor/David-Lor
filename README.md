@@ -26,8 +26,6 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 - [PortForward](https://github.com/David-Lor/Docker-PortForward): TCP port forwarding in container using socat; allows forwarding multiple ports on the same container.
 - (no)VNC GUI images, based on [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui):
     - [Signal Desktop app](https://github.com/David-Lor/Docker-Signal-Desktop-GUI), for the Signal messaging desktop app
-    - [BOINC Manager](https://github.com/David-Lor/Docker-BOINC-Manager-GUI), for the BOINC Manager desktop app
-    - [Bitcoin Core](https://github.com/David-Lor/Docker-Bitcoin-Core-GUI), for the official Bitcoin Core wallet app (POC)
 
 ### 🚉Services
 
@@ -42,7 +40,6 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 - [Logging Requests](https://github.com/David-Lor/Logging-Requests-POC): API that traces log records per-requests, using Loguru + context variables, to store the records grouped by each individual request.
 - [ZeroHealthCheck](https://github.com/David-Lor/ZeroHealthCheck): decentralized service that healthchecks other nodes, using ZeroMQ.
 - [pydantic-etcd](https://github.com/David-Lor/pydantic-etcd): modified Pydantic BaseSettings class that supports loading variables from ETCD.
-- [InventoryAPI](https://github.com/David-Lor/Arango-Foxx-Inventory-API): REST API to store generic items hierarchically or container-based, using ArangoDB and built as an Arango's Foxx service.
 
 ### 🗣Talks & sample projects
 
@@ -68,7 +65,6 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 - [Github-Actions-PR-Tag-Release](https://github.com/David-Lor/Github-Actions-PR-Tag-Release): sample repository featuring Github Actions workflows that, on a merged Pull Request including a "Tags x.y.z" line in its body, automatically creates a tag with the given version on the merge commit, and triggers a workflow for creating a new Release.
 - [Spotify-Collaborative-Public-Playlists-Template](https://github.com/David-Lor/Spotify-Collaborative-Public-Playlists-Template): project to manage public Spotify playlists from Github, using Github Actions. The repository is a template that can be used to manage a playlist (one per repo).
     - [Hurdy Gurdy Rock/Metal playlist](https://github.com/David-Lor/HurdyGurdy-Rock-Metal-Spotify-Playlist): playlist with many rock/metal songs that include a hurdy gurdy
-    - [Sample/Test playlist](https://github.com/David-Lor/Spotify-Collaborative-Public-Playlists-Test): playlist used as sample repository, and for testing new features
 - [MQTT2NotifySend](https://github.com/David-Lor/MQTT2NotifySend): bash script that shows notifications in Linux desktops using notify-send, from messages received through MQTT
 - [action-dockerhub-get-tag-metadata](https://github.com/David-Lor/action-dockerhub-get-tag-metadata): Github Action for fetching the digest and other metadata for a Docker Hub image.
 - [PVPC](https://github.com/David-Lor/pvpc): PVPC costs per day (Spanish electricity cost), powered by Github Actions and daily updated.
