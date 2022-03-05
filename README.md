@@ -25,6 +25,7 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 - [SSH-PortForward-Server](https://github.com/David-Lor/Docker-SSH-Port-Forward-Server): dockerized SSH server for SSH Port Forwarding.
 - [PortForward](https://github.com/David-Lor/Docker-PortForward): TCP port forwarding in container using socat; allows forwarding multiple ports on the same container.
 - (no)VNC GUI images, based on [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui):
+    - [FileManagers](https://github.com/David-Lor/Docker-FileManagers-GUI), with multiple file managers dockerized (Nautilus, Thunar, Dolphin)
     - [Signal Desktop app](https://github.com/David-Lor/Docker-Signal-Desktop-GUI), for the Signal messaging desktop app
 
 ### 🚉Services
