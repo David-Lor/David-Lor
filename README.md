@@ -33,8 +33,9 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 
 - [ping2mqtt](https://github.com/David-Lor/ping2mqtt): ping multiple hosts and send ping results to MQTT topics
 
-### 🧪Proof of Concepts
+### 🧪Proof of Concepts and experimental projects
 
+- [TwitterScraper](https://github.com/David-Lor/twitterscraper): Twitter profile scraper, microservice-based using AMQP queues, using Nitter
 - [Telegram Bot Updates Receiver Service](https://github.com/David-Lor/TelegramBot-Webhook-Updates-Receiver-Service): microservice-based that receives Telegram Bot updates via Webhook, and publishes them on a queue or message broker.
 - [autonice](https://github.com/David-Lor/autonice): utility for setting nice in running applications based on settings
 - [pytelegrambotapi + Redis queue](https://github.com/David-Lor/pytelegrambotapi-redisqueue_POC): microservice-based Telegram Bot that uses a Redis queue to enqueue client updates, and process them with multiple workers.
