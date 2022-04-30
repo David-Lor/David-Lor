@@ -32,6 +32,10 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 
 - [ping2mqtt](https://github.com/David-Lor/ping2mqtt): ping multiple hosts and send ping results to MQTT topics
 
+### ▶️GitHub Actions
+
+- [Tag on PR merge](https://github.com/David-Lor/action-tag-on-pr-merge): create a new tag when a Pull Request is merged
+
 ### 🧪Proof of Concepts and experimental projects
 
 - [TwitterScraper](https://github.com/David-Lor/twitterscraper): Twitter profile scraper, microservice-based using AMQP queues, using Nitter
