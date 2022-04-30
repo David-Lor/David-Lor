@@ -35,6 +35,7 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 ### ▶️GitHub Actions
 
 - [Tag on PR merge](https://github.com/David-Lor/action-tag-on-pr-merge): create a new tag when a Pull Request is merged
+- [DockerHub: Get Tag metadata](https://github.com/David-Lor/action-dockerhub-get-tag-metadata): fetch metadata from a Docker image:tag from DockerHub
 
 ### 🧪Proof of Concepts and experimental projects
 
@@ -72,7 +73,6 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 - [Spotify-Collaborative-Public-Playlists-Template](https://github.com/David-Lor/Spotify-Collaborative-Public-Playlists-Template): project to manage public Spotify playlists from Github, using Github Actions. The repository is a template that can be used to manage a playlist (one per repo).
     - [Hurdy Gurdy Rock/Metal playlist](https://github.com/David-Lor/HurdyGurdy-Rock-Metal-Spotify-Playlist): playlist with many rock/metal songs that include a hurdy gurdy
 - [MQTT2NotifySend](https://github.com/David-Lor/MQTT2NotifySend): bash script that shows notifications in Linux desktops using notify-send, from messages received through MQTT
-- [action-dockerhub-get-tag-metadata](https://github.com/David-Lor/action-dockerhub-get-tag-metadata): Github Action for fetching the digest and other metadata for a Docker Hub image.
 - [PVPC](https://github.com/David-Lor/pvpc): PVPC costs per day (Spanish electricity cost), powered by Github Actions and daily updated.
 
 ### 📖Articles
