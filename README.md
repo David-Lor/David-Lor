@@ -4,7 +4,7 @@ These are some of the main ideas I'm/I've been working on:
 
 [VigoBus-TelegramBot](https://github.com/David-Lor/VigoBus-TelegramBot): A Telegram Bot to check the buses by stops on my hometown.
 Split into 3 services ([bot backend](https://github.com/David-Lor/VigoBus-TelegramBot), [bus+stops API](https://github.com/David-Lor/Python_VigoBusAPI), [persistence API](https://github.com/David-Lor/Telegram-BusBot-DataManager)),
-could be easily ported to other cities or even other public transport systems that work on a similar manner. 
+could be easily ported to other cities or even other public transport systems that work on a similar manner.
 Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobustestbot](https://telegram.me/vigobustestbot) (development).
 
 ### ⚙️Libraries
@@ -31,6 +31,11 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 ### 🚉Services
 
 - [ping2mqtt](https://github.com/David-Lor/ping2mqtt): ping multiple hosts and send ping results to MQTT topics
+
+### 🤖Telegram bots
+
+- [VigoBusBot](https://github.com/David-Lor/VigoBus-TelegramBot): bot for checking the remaining arrival time of buses by stops on Vigo (Galicia)
+- [DalleMiniBot](https://github.com/David-Lor/dalle-mini-telegram-bot): bot interface for getting AI-generated images from DALL·E mini, directly into Telegram
 
 ### ▶️GitHub Actions
 
