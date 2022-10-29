@@ -83,3 +83,4 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 ### 📖Articles
 
 - [Identifying FastAPI requests in logs](https://davidlor.medium.com/identifying-fastapi-requests-in-logs-bac3284a6aa)
+- [Gestionando configuraciones en Python con Pydantic](https://www.enmilocalfunciona.io/gestionando-configuraciones-en-python-con-pydantic)
