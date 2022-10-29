@@ -9,8 +9,9 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 
 ### ⚙️Libraries
 
+- [Pnytter](https://github.com/David-Lor/pnytter): Python library for scraping Twitter through Nitter.
 - [python-wait4it](https://github.com/David-Lor/python-wait4it): wait for a TCP port to be reachable, or a function to pass without exceptions.
-- [python-pvpc](https://github.com/David-Lor/python-pvpc): wrapper for the Esios PVPC API (Spanish electricity cost)
+- [python-pvpc](https://github.com/David-Lor/python-pvpc): wrapper for the Esios PVPC API (Spanish electricity cost).
 - [ThisPersonDoesNotExistAPI](https://github.com/David-Lor/ThisPersonDoesNotExistAPI): Python interface to acquire pictures from thispersondoesnotexist.com.
 
 ### 🔀Node-RED Nodes
@@ -73,7 +74,6 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 
 ### 🧸Scripts & others
 
-- [pipexec](https://github.com/David-Lor/pipexec): run predefined scripts using Linux pipes
 - [Github-Actions-PR-Tag-Release](https://github.com/David-Lor/Github-Actions-PR-Tag-Release): sample repository featuring Github Actions workflows that, on a merged Pull Request including a "Tags x.y.z" line in its body, automatically creates a tag with the given version on the merge commit, and triggers a workflow for creating a new Release.
 - [Spotify-Collaborative-Public-Playlists-Template](https://github.com/David-Lor/Spotify-Collaborative-Public-Playlists-Template): project to manage public Spotify playlists from Github, using Github Actions. The repository is a template that can be used to manage a playlist (one per repo).
     - [Hurdy Gurdy Rock/Metal playlist](https://github.com/David-Lor/HurdyGurdy-Rock-Metal-Spotify-Playlist): playlist with many rock/metal songs that include a hurdy gurdy
