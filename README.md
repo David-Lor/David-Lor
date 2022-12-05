@@ -10,9 +10,10 @@ Deployed at [@vigobusbot](https://telegram.me/vigobusbot) (stable) and [@vigobus
 ### ⚙️Libraries
 
 - [Pnytter](https://github.com/David-Lor/pnytter): Python library for scraping Twitter through Nitter.
+- [python-qqddm](https://github.com/David-Lor/python-qqddm): Python library for passing pictures to QQ's "Different Dimension Me" AI, which converts the images to anime avatars, returning the resulting pictures.
 - [python-wait4it](https://github.com/David-Lor/python-wait4it): wait for a TCP port to be reachable, or a function to pass without exceptions.
 - [python-pvpc](https://github.com/David-Lor/python-pvpc): wrapper for the Esios PVPC API (Spanish electricity cost).
-- [ThisPersonDoesNotExistAPI](https://github.com/David-Lor/ThisPersonDoesNotExistAPI): Python interface to acquire pictures from thispersondoesnotexist.com.
+- [ThisPersonDoesNotExistAPI](https://github.com/David-Lor/ThisPersonDoesNotExistAPI): Python library for acquiring pictures from thispersondoesnotexist.com.
 
 ### 🔀Node-RED Nodes
 
